@@ -2,6 +2,6 @@
 * Harrier
 * Hornet
 
-* Getting and Cleaning Data
 * Exploratory Data Analysis
+* Getting and Cleaning Data
 * add me
